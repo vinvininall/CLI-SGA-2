@@ -1,1 +1,9 @@
+SS1: Shows 2 things..firstly it shows path. Secondly , it shows that the code does not produce any errors (code attached in next screenshot)
 
+SS2 AND SS3: Full photo of the code in editor.
+To create a file , write employee records, update a specific record using lseek() without rewriting the entire file, retrieve the updated record, and safely close the file. It demonstrates efficient file handling through low-level system calls such as open(), write(), read(), lseek(), and close().
+
+
+SS4: shows outputs of the code.
+
+SS5: just shows entire commmand base.
