@@ -1,0 +1,5 @@
+SS1 just shows which directory im working in
+SS3 is to show that I have created Duplicate files (vinayak.txt AND vinayakcopy.txt)
+SS4 is to show that I have given File Execute permissions so that we can run the file and see the output of code.
+SS5 is  Proof that no error appears , and verification for the fact that produced output is actually correct.
+SS6 shows that I Made changes so that it always keeps vinayak.txt as normal file and , vinayakcopy.txt as the duplicated file
