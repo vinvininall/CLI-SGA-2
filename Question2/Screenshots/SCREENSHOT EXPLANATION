@@ -1,0 +1,8 @@
+EXPLANATION:
+
+SS1: Making question 2. adding the code
+Showing that the code works.
+
+SS2: The program will first call fork() , which creates a child process. 
+After the fork, the child process prints its process ID, simulates some work by sleeping for 10 seconds, and then exits.
+Meanwhile, the parent process prints its own process ID, waits for 3 seconds, and checks the child process. It sends a SIGTERM signal using kill() to terminate the child if it is still running. Finally, the parent calls wait() to collect the child's exit status, preventing the child from becoming a zombie process before the program terminates.
