@@ -1,0 +1,6 @@
+ERROR: Database connection failed
+ERROR: Disk space low
+ERROR: Authentication failed
+ERROR: Network timeout
+ERROR: Authentication failed
+ERROR: Network timeout

@@ -1,0 +1,12 @@
+INFO: Server started successfully
+INFO: User login successful
+ERROR: Database connection failed
+INFO: Service restarted
+ERROR: Disk space low
+INFO: Backup completed
+INFO: New connection established
+ERROR: Authentication failed
+ERROR: Network timeout
+INFO: User connected
+ERROR: Authentication failed
+ERROR: Network timeout
