@@ -1,1 +1,6 @@
 
+SS1: Created a sample configuration file to demonstrate editing and recovery using vi.
+
+SS2: Executed the vi -r config.conf recovery command, which reported that no swap file was available because no unexpected crash had occurred.
+
+SS3: Executed the required vi commands, created the README file, and committed the completed Question 5 files to the GitHub repository.
