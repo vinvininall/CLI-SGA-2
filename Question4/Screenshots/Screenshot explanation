@@ -1,1 +1,4 @@
 
+SS1: Demonstrated log file monitoring by extracting all ERROR messages from server.log into error_report.txt using the grep command and verified the generated report.
+
+SS2: Just to Show output.
